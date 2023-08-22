@@ -1,8 +1,16 @@
-# React + Vite
+### Variables de entorno a configurar 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Credenciales de firebase
 
-Currently, two official plugins are available:
+- VITE_APIKEY=
+- VITE_AUTH=
+- VITE_PROJECTID=
+- VITE_STORAGE=
+- VITE_MESSAGIN=
+- VITE_APPID=
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### PUBLIC KEY de mercado pago
+- VITE_PUBLICKEY=
+
+### Nombre del rol ADMIN
+- VITE_ROL_ADMIN=
